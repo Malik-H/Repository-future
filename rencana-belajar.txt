@@ -1,0 +1,4 @@
+Rencana-Belajar Code
+
+- Belajar Git & GitHub
+- Belajar CodeIgniter
